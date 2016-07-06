@@ -1,0 +1,5 @@
+ipython==4.2.1
+Django==1.9.7
+redis==2.10.5
+Scrapy==1.1.0
+scrapy-djangoitem==1.1.1
